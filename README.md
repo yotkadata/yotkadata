@@ -7,9 +7,15 @@ I am Jan. I live between Berlin and Caracas (currently the former) and I love da
 - [**Voter Turnouts**](https://github.com/yotkadata/voter-turnouts): Analyzing possible causes for declining voter turnout in Germany
 
 <p float="left">
-  <img src="https://github.com/yotkadata/covid-waves/raw/main/examples/header-img.png" width="300" />
-  <img src="https://github.com/yotkadata/renewable-electricity/raw/main/export/03-Renewables.png" width="300" />
-  <img src="https://github.com/yotkadata/voter-turnouts/raw/main/img/voter-turnouts-header.png" width="300" />
+  <a href="https://github.com/yotkadata/covid-waves">
+    <img src="https://github.com/yotkadata/covid-waves/raw/main/examples/header-img.png" width="250" />
+  </a>
+  <a href="https://github.com/yotkadata/renewable-electricity">
+    <img src="https://github.com/yotkadata/renewable-electricity/raw/main/export/03-Renewables.png" width="250" />
+  </a>
+  <a href="https://github.com/yotkadata/voter-turnouts">
+    <img src="https://github.com/yotkadata/voter-turnouts/raw/main/img/voter-turnouts-header.png" width="250" />
+  </a>
 </p>
 
 <!--
