@@ -8,7 +8,7 @@ I am Jan. I live between Berlin and Caracas (currently the former) and I love da
 
 <p float="left">
   <a href="https://github.com/yotkadata/meteo_hist">
-    <img src="https://github.com/yotkadata/meteo_hist/blob/main/examples/duisburg-germany-temperature_max-2019_ref-1961-1990.png" width="250" />
+    <img src="https://github.com/yotkadata/meteo_hist/blob/main/header.png" width="250" />
   </a>
   <a href="https://github.com/yotkadata/covid-waves">
     <img src="https://github.com/yotkadata/covid-waves/raw/main/examples/header-img.png" width="250" />
